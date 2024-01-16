@@ -1,10 +1,10 @@
 # SpanBotWhatsApp
 
-Este script esta echo con fines de practicar como mandar mensajes precargados en un archivo para que se manden automaticamente cuando se ejecta el script
+This script is made for the purpose of practicing how to send preloaded messages in a file to be sent automatically when the script is ejected
 
-## Uso
+## Use
 
-~ Instala python desde: [Python downloads](https://www.python.org/downloads/)
+~ Install python from: [Python downloads](https://www.python.org/downloads/)
 
 ~ Clone this repository
 
@@ -12,7 +12,7 @@ Este script esta echo con fines de practicar como mandar mensajes precargados en
 git clone https://github.com/luisangelponcealvarez/SpanBotWhatsApp.git
 ```
 
-~ Importación de las bibliotecas necesarias:
+~ Import the necessary libraries:
 
 ```
 pip install pyautogui
@@ -26,16 +26,16 @@ pip install webbrowser
 pip install time
 ```
 
-~ Ejecutar el script
+~ Run the script
 
-Antes de ejecutar el script nesecitamos tener el texto en el archivo spam.txt para que el archivo main.py hagare el archivo spam.txt por que el texto en el archivo spam.txt es el que se va a mandar al numero que pongamos en la url en el archivo main.py la url es la siguiente https://web.whatsapp.com/send?phone=+AquíVaElNumero donde dice AquíVaElNumero ayí pondran el numero de telefono que quieran mandar el texto que esta en al archivo spam.txt.
+Before running the script we need to have the text in the spam.txt file so that the main.py file will make the spam.txt file because the text in the spam.txt file is what will be sent to the number we put in the url in the main.py file the url is the following https://web.whatsapp.com/send?phone=+AquíVaElNumero where it says AquíVaElNumero there you will put the phone number you want to send the text that is in the spam.txt file.
 
-~ Ya cuando los pasos anteriores esten ya podemos ejecutar el script con el siguiente comando
+~ Once the previous steps are already we can run the script with the following command
 
 ```
 py main.py
 ```
 
-## Miniatura
+## Thumbnail
 
-![miniatura](./miniatura.png)
+![thumbnail](./thumbnail.png)
